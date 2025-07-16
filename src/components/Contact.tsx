@@ -283,7 +283,7 @@ const Contact = () => {
                 whileTap={{ scale: 0.98 }}
               >
                 <Send className="h-5 w-5" />
-                <span>Send Message</span>
+                <span> Message</span>
               </motion.button>
             </motion.form>
           </motion.div>
