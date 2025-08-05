@@ -54,11 +54,10 @@ const Projects = () => {
     },
     {
       title: 'Diwali Sales Analysis',
-      description: ' A Python-based Diwali Sales Analysis using Pandas, NumPy, and Matplotlib to explore customer demographics, purchase trends, and sales insights.'
-      image: 'https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=800',
-      technologies: ['Python', 'Pandas', 'NumPy', 'Matplotlib', 'Jupyter Notebook', 'CSV dataset'.],
-      icon: <BarChart3 className="h-6 w-6" />,
-      color: 'from-blue-500 to-blue-600',
+      description: 'A Python-based Diwali Sales Analysis using Pandas, NumPy, and Matplotlib to explore customer demographics, purchase trends, and sales insights.',
+      image: 'https://github.com/<your-username>/<repo-name>/blob/main/images/<image-name>.png?raw=true',
+      technologies: ['Python', 'Pandas', 'NumPy', 'Matplotlib', 'Jupyter Notebook', 'CSV dataset'],
+      icon: <BarChart3 className="h-6 w-6" />,}     color: 'from-blue-500 to-blue-600',
       detailedDescription: ' Analyzed Diwali sales data to identify trends, customer segments, and product performance using Python (Pandas, NumPy, Matplotlib).'
       keyFeatures: [
          'Data cleaning, EDA, visualizations of demographics & purchase patterns, insights for business strategy.'
