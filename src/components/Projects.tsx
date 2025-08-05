@@ -52,7 +52,7 @@ const Projects = () => {
       githubUrl: 'https://github.com/Ganesh72023',
       liveUrl: 'https://github.com/Ganesh72023'
     },
-     {
+    {
       title: 'Diwali Sales Analysis',
       description: ' A Python-based Diwali Sales Analysis using Pandas, NumPy, and Matplotlib to explore customer demographics, purchase trends, and sales insights.'
       image: 'https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=800',
