@@ -52,6 +52,28 @@ const Projects = () => {
       githubUrl: 'https://github.com/Ganesh72023',
       liveUrl: 'https://github.com/Ganesh72023'
     },
+     {
+      title: 'Diwali Sales Analysis',
+      description: ' A Python-based Diwali Sales Analysis using Pandas, NumPy, and Matplotlib to explore customer demographics, purchase trends, and sales insights.'
+      image: 'https://github.com/<your-username>/<repo-name>/blob/main/images/<image-name>.png?raw=true',
+      technologies: ['Python', 'Pandas', 'NumPy', 'Matplotlib', 'Jupyter Notebook', 'CSV dataset'.],
+      icon: <BarChart3 className="h-6 w-6" />,
+      color: 'from-blue-500 to-blue-600',
+      detailedDescription: ' Analyzed Diwali sales data to identify trends, customer segments, and product performance using Python (Pandas, NumPy, Matplotlib).'
+      keyFeatures: [
+         'Data cleaning, EDA, visualizations of demographics & purchase patterns, insights for business strategy.'
+      ],
+      challenges: [
+        'Handling missing values, inconsistent data formats, and identifying meaningful insights from large datasets.'
+      ],
+      outcomes: [
+        ' Clear understanding of top-selling products, key customer segments, and seasonal purchase behavior.'
+      ],
+      duration: 'Completed within 1 week.',
+      teamSize: 'Individual Project',
+      githubUrl: 'https://github.com/Ganesh72023',
+      liveUrl: 'https://github.com/Ganesh72023'
+    },
     {
       title: 'Super Store Sales Dashboard',
       description: 'A Super Store Sales Dashboard provides visual insights into sales performance, revenue, and key metrics for better decision-making.',
